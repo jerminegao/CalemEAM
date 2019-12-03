@@ -195,10 +195,15 @@ $_CALEM_dist=array(
 	//language list supported - used in building the language packs
 	'client_lang_list'=>array(
 	   //en_us
-		'CalemMsg.js'=>array('AjxMsg'=>array('AjxMsg'),
-                           'I18nMsg'=>array('I18nMsg'),
-                           'CalemMsg'=>array('CalemMsg', 'CalemMsgCustom')),
-                           
+//		'CalemMsg.js'=>array('AjxMsg'=>array('AjxMsg'),
+//                           'I18nMsg'=>array('I18nMsg'),
+//                           'CalemMsg'=>array('CalemMsg', 'CalemMsgCustom')),
+
+		//ch_cn
+//		'CalemMsg.js'=> array('AjxMsg'=>array('AjxMsg_cn'),
+//			'I18nMsg'=>array('I18nMsg_zh', 'I18nMsg_zh_CN'),
+//			'CalemMsg'=>array('CalemMsg_cn', 'CalemMsgCustom_cn')),
+
 		'CalemMsg_en_AU.js'=>array('AjxMsg'=>array('AjxMsg'),
                            'I18nMsg'=>array('I18nMsg', 'I18nMsg_en_AU'),
                            'CalemMsg'=>array('CalemMsg', 'CalemMsgCustom')),
@@ -226,10 +231,7 @@ $_CALEM_dist=array(
         'CalemMsg_de_CH.js'=>array('AjxMsg'=>array('AjxMsg', 'AjxMsg_de'),
                            'I18nMsg'=>array('I18nMsg', 'I18nMsg_de', 'I18nMsg_de_CH'),
                            'CalemMsg'=>array('CalemMsg_de', 'CalemMsgCustom_de')),
-      //ch_cn
-      'CalemMsg_cn.js'=> array('AjxMsg'=>array('AjxMsg_cn'),
-            					'I18nMsg'=>array('I18nMsg_zh', 'I18nMsg_zh_CN'),
-            					'CalemMsg'=>array('CalemMsg_cn', 'CalemMsgCustom_cn')),
+
       //ja
       'CalemMsg_ja.js'=> array('AjxMsg'=>array('AjxMsg_ja'),
             					'I18nMsg'=>array('I18nMsg_ja', 'I18nMsg_ja_JP'),
@@ -237,14 +239,15 @@ $_CALEM_dist=array(
     ),
     //Client selection list
     'client_lang_select'=>array(
-    	'English (US)'=>array('id'=>''),
-    	'English (Australia)'=>array('id'=>'en_AU'),
-    	'English (Canada)'=>array('id'=>'en_CA'),
-    	'English (UK)'=>array('id'=>'en_GB'),
-		'Deutsch (Deutschland)'=>array('id'=>'de_DE'),
-		'Deutsch (Luxemburg)'=>array('id'=>'de_LU'),
-		'Deutsch (�sterreich)'=>array('id'=>'de_AT'),
-		'Deutsch (Schweiz)'=>array('id'=>'de_CH')
+//    	'English (US)'=>array('id'=>''),
+//    	'English (Australia)'=>array('id'=>'en_AU'),
+//    	'English (Canada)'=>array('id'=>'en_CA'),
+//    	'English (UK)'=>array('id'=>'en_GB'),
+//		'Deutsch (Deutschland)'=>array('id'=>'de_DE'),
+//		'Deutsch (Luxemburg)'=>array('id'=>'de_LU'),
+//		'Deutsch (�sterreich)'=>array('id'=>'de_AT'),
+//		'Deutsch (Schweiz)'=>array('id'=>'de_CH'),
+		'中文 (Chinese)'=>array('id'=>''),
     ),
     'setting_cookie_expire'=>1209600, //Two weeks
    //custom items to include

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4644fa49-956d-469f-8e5b-1ce598b83b73" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/client/lang/CalemMsg.properties" beforeDir="false" afterPath="$PROJECT_DIR$/client/lang/CalemMsg.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/launchpad/resource/CalemMsg.phpo" beforeDir="false" afterPath="$PROJECT_DIR$/client/launchpad/resource/CalemMsg.phpo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/conf/calem.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/conf/calem.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/include/core/database/mysql/MysqlHandler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>splash_screen</find>
+      <find>rb_desc</find>
+      <find>CalemMsg::getMsg(</find>
+      <find>js.gz</find>
+      <find>CalemMsg</find>
+      <find>currencySymbol</find>
+      <find>weekdaySatShort</find>
+      <find>password</find>
+      <find>asset no</find>
+      <find>Dashboard</find>
+      <find>username = User name</find>
+      <find>Module</find>
+      <find>username</find>
+      <find>currencyCode</find>
+      <find>notAnInteger</find>
+      <find>formatNumberPercent</find>
+      <find>monthOctMedium</find>
+      <find>formatNumberCurrency</find>
+      <find>integration</find>
+      <find>sat</find>
+      <find>timezoneNameUS/Pacific</find>
+      <find>2007 CalemEAM Inc</find>
+      <find>foshan</find>
+      <find>root</find>
+      <find>Login failed. Please check your user name</find>
+      <find>SF_InvalidLogin</find>
+      <find>verifyLogin</find>
+      <find>getCalemConnection</find>
+      <find>getCalemConnection</find>
+      <find>$_CALEM_conf['calem_db_user']</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>G:\B2B\xampp\htdocs\CalemEAM\</replace>
+      <replace>php7x86ts</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/php7.3.9/php.ini" />
+        <option value="$PROJECT_DIR$/bin/env.bat" />
+        <option value="$PROJECT_DIR$/installation/form/model/CalemInstDbExpressModel.php" />
+        <option value="$PROJECT_DIR$/installation/form/model/CalemInstDbSetupModel.php" />
+        <option value="$PROJECT_DIR$/server/setup/CalemCreateSchema.php" />
+        <option value="$PROJECT_DIR$/server/include/core/database/CalemPdo.php" />
+        <option value="$PROJECT_DIR$/server/setup/CalemDataLoader.php" />
+        <option value="D:/apache/conf/extra/httpd-xampp.conf" />
+        <option value="D:/php7x86ts/php.ini" />
+        <option value="D:/php/php.ini" />
+        <option value="D:/apache/conf/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/client/launchpad/CalemLoginLite.php" />
+        <option value="$PROJECT_DIR$/client/launchpad/CalemLogin.php" />
+        <option value="$PROJECT_DIR$/client/launchpad/resource/CalemMsg.js" />
+        <option value="$PROJECT_DIR$/server/include/util/CalemMsg.php" />
+        <option value="$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.phpo" />
+        <option value="$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.js" />
+        <option value="$PROJECT_DIR$/server/conf/calem.php" />
+        <option value="$PROJECT_DIR$/client/lang/CalemMsg.properties" />
+        <option value="$PROJECT_DIR$/client/lang/CalemMsg_cn.properties" />
+        <option value="$PROJECT_DIR$/bbb.php" />
+        <option value="$PROJECT_DIR$/ccc.php" />
+        <option value="$PROJECT_DIR$/aa.php" />
+        <option value="$PROJECT_DIR$/client/launchpad/resource/CalemMsg.phpo" />
+        <option value="$PROJECT_DIR$/client/launchpad/resource/CalemMsg_en_GB.js.min" />
+        <option value="$PROJECT_DIR$/server/conf/calem.install.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="18" />
+    <option name="y" value="190" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CalemEAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalemEAM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalemEAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalemEAM" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalemEAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalemEAM" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalemEAM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalemEAM" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\B2B\xampp\htdocs\CalemEAM\client\lang" />
+      <recent name="G:\B2B\xampp\htdocs\CalemEAM\server\include\charts\ampie" />
+      <recent name="G:\B2B\xampp\htdocs\CalemEAM\server\include\charts\amline" />
+      <recent name="G:\B2B\xampp\htdocs\CalemEAM\server\include\charts\amcolumn" />
+      <recent name="G:\B2B\xampp\htdocs\CalemEAM\etc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4644fa49-956d-469f-8e5b-1ce598b83b73" name="默认更改列表" comment="" />
+      <created>1574930851934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574930851934</updated>
+      <workItem from="1574930865782" duration="1840000" />
+      <workItem from="1574987845396" duration="4395000" />
+      <workItem from="1574993834965" duration="4122000" />
+      <workItem from="1574998024584" duration="11736000" />
+      <workItem from="1575074789424" duration="22870000" />
+      <workItem from="1575207538209" duration="1277000" />
+      <workItem from="1575246252388" duration="1919000" />
+      <workItem from="1575255183223" duration="3104000" />
+      <workItem from="1575272616714" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10283401" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50040483" side_tool="true" weight="0.5974026" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_de_CH.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="2222" column="28" selection-start-line="2222" selection-start-column="28" selection-end-line="2222" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_ja.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/AjxMsg_ja.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/JsPkg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="184" column="9" selection-start-line="184" selection-start-column="9" selection-end-line="184" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/Calem.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/themes/calem/calem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/CalemLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/CalemStart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg.js.gz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1725" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/CalemLoginLite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="260" column="94" selection-start-line="260" selection-start-column="77" selection-end-line="260" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/Calem.js.min">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg.js.min">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3275">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/I18nMsg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/I18nMsg_zh_CN.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/I18nMsg_zh.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1039" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/AjxMsg_cn.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="15" selection-start-line="34" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/util/CalemMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="1786" column="40" selection-start-line="1786" selection-start-column="40" selection-end-line="1786" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="1981" column="40" selection-start-line="329" selection-end-line="1981" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_ja.phpo">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/lib/c3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/Metadata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_cn.phpo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8505" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/modules/rcm/form/CalemRcmItemDef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/modules/admin/CalemLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/httpd-calemeam.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="177" column="1" selection-start-line="177" selection-start-column="1" selection-end-line="182" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/CalemMsg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="8" selection-start-line="20" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lang/CalemMsg_cn.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg.phpo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/conf/calem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="204" column="13" selection-start-line="204" selection-start-column="13" selection-end-line="204" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INSTALL.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/cache/data/cache_default_acl_group">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="242" column="22" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/launchpad/resource/CalemMsg_en_GB.js.min">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="356" column="25" selection-start-line="356" selection-start-column="10" selection-end-line="356" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="61" column="78" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/core/CalemFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/modules/admin/soap/CalemLoginSo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="116" column="54" selection-start-line="116" selection-start-column="43" selection-end-line="116" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/modules/admin/CalemSecurityBo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/core/database/CalemDboInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/log4php/LoggerHierarchy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2671">
+          <caret line="216" column="14" selection-start-line="216" selection-start-column="14" selection-end-line="216" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/log4php/LoggerManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="91" column="31" lean-forward="true" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/modules/admin/CalemUserDbo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/core/database/CalemDbo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="78" column="56" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/include/core/database/CalemDbHandlerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/conf/calem.install.php" />
+    <entry file="file://$PROJECT_DIR$/server/include/core/database/mysql/MysqlHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

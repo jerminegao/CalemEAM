@@ -1,0 +1,748 @@
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=71256ba1-5230-8694-352f-b9aec9fd29ee, data=array (
+  'sid' => '71256ba1-5230-8694-352f-b9aec9fd29ee',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575011671,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=852eb496-8f40-9874-09c8-d8bc61cd1c86, data=array (
+  'sid' => '852eb496-8f40-9874-09c8-d8bc61cd1c86',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575011681,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=cdc01081-aecf-a194-2d75-760b25562e2f, data=array (
+  'sid' => 'cdc01081-aecf-a194-2d75-760b25562e2f',
+  'setting' => 
+  array (
+    'lang' => 'de_LU',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575011763,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg_de_LU.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=c2a077b1-cd6b-fc74-e514-d5f7346f6058, data=array (
+  'sid' => 'c2a077b1-cd6b-fc74-e514-d5f7346f6058',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575011803,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=be2c6597-38b3-5874-e1e0-7c31f98a8e0e, data=array (
+  'sid' => 'be2c6597-38b3-5874-e1e0-7c31f98a8e0e',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575012240,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=74c2d30d-c30c-ea54-95bb-addd66f2e24a, data=array (
+  'sid' => '74c2d30d-c30c-ea54-95bb-addd66f2e24a',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575012634,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=90a4ed47-dd12-2134-01a2-8f7bb5697b70, data=array (
+  'sid' => '90a4ed47-dd12-2134-01a2-8f7bb5697b70',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575012752,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=2e73d376-8789-42a4-a92f-c69330085be5, data=array (
+  'sid' => '2e73d376-8789-42a4-a92f-c69330085be5',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575012798,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=11b256bd-1cf2-fc54-418c-4028c4e9dd57, data=array (
+  'sid' => '11b256bd-1cf2-fc54-418c-4028c4e9dd57',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575013249,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=606a6501-a9b1-b014-11dd-de2ee01b9529, data=array (
+  'sid' => '606a6501-a9b1-b014-11dd-de2ee01b9529',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575015271,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Metadata.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/CalemMsg.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Calem.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/client/launchpad/resource/Ajax.js.gz
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.gz, fileCount=1
+ INFO  JsPkgCustom - Found the correct session: CalemSession: {sessionId=606a6501-a9b1-b014-11dd-de2ee01b9529, data=array (
+  'sid' => '606a6501-a9b1-b014-11dd-de2ee01b9529',
+  'setting' => 
+  array (
+    'lang' => '',
+    'theme' => 'calem',
+    'loadmode' => 'gzip',
+    'login_time' => 1575015271,
+  ),
+  'user' => 
+  array (
+    'id' => '1000000',
+    'username' => 'admin',
+    'status_id' => NULL,
+    'password' => 'dc3565645d8002becb5fd7977aeef3e1',
+    'user_type_id' => NULL,
+    'emp_no' => NULL,
+    'contractor_id' => NULL,
+    'job_role_id' => NULL,
+    'login_allowed' => '1',
+    'full_name' => 'Administrator',
+    'job_title' => NULL,
+    'note' => NULL,
+    'acl_group_id' => 'CUSTOM_SYSTEM',
+    'admin_type_id' => 'search_admin_none',
+    'team_id' => NULL,
+    'supervisor_id' => NULL,
+    'dept_id' => NULL,
+    'costcode_id' => NULL,
+    'req_approval_id' => NULL,
+    'po_approval_id' => NULL,
+    'craft_id' => NULL,
+    'phone_work' => NULL,
+    'phone_home' => NULL,
+    'phone_mobile' => NULL,
+    'email_work' => NULL,
+    'email_other' => NULL,
+    'im1_type_id' => NULL,
+    'im1_id' => NULL,
+    'im2_type_id' => NULL,
+    'im2_id' => NULL,
+    'fax' => NULL,
+    'company' => NULL,
+    'street1' => NULL,
+    'street2' => NULL,
+    'city' => NULL,
+    'state' => NULL,
+    'zip' => NULL,
+    'country' => NULL,
+    'modified_time' => '2019-11-29 07:12:33',
+    'modified_id' => '1000000',
+    'created_time' => '2019-11-29 07:12:33',
+    'created_id' => '1000000',
+  ),
+)}
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.view.js.min
+ DEBUG CalemIncludeJsPkg - adding file for download: G:\B2B\xampp\htdocs\CalemEAM/custom/group/CALEM_OOB.form.js.min
+ DEBUG CalemIncludeJsPkg - adding jsDef for download: CalemData['acl_group']={"data":[["10000","ADMIN","CUSTOM_SYSTEM","Root group to use for all admin groups","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["10001","USERS","CUSTOM_SYSTEM","Root group to use for all non-admin users","2019-11-29 07:12:33","1000000","2019-11-29 07:12:33","1000000"],["CUSTOM_SYSTEM","Custom system",null,"Customization\/configuration shared by all other groups","2019-11-29 07:12:32","1000000","2019-11-29 07:12:32","1000000"]],"parentMap":{"10000":["CUSTOM_SYSTEM","CALEM_OOB"],"10001":["CUSTOM_SYSTEM","CALEM_OOB"],"CUSTOM_SYSTEM":["CUSTOM_SYSTEM","CALEM_OOB"]}}
+
+ DEBUG CalemIncludeJsPkg - Downloading JS by query: zip=1, mode=.min, fileCount=23

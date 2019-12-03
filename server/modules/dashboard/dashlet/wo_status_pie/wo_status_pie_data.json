@@ -1,0 +1,54 @@
+{
+    "bindto": "#graph",
+    "data": {
+        "type": "donut",
+        "columns": [
+            [
+                "___wos_open",
+                "2"
+            ],
+            [
+                "___wos_complete",
+                "1"
+            ],
+            [
+                "___wos_accepted",
+                "1"
+            ],
+            [
+                "___wos_new",
+                "1"
+            ],
+            [
+                [
+                    "___wos_scheduled",
+                    0
+                ]
+            ],
+            [
+                [
+                    "___wos_wfm",
+                    0
+                ]
+            ],
+            [
+                [
+                    "___wos_inprogress",
+                    0
+                ]
+            ],
+            [
+                [
+                    "___wos_reopen",
+                    0
+                ]
+            ],
+            [
+                [
+                    "___wos_closed",
+                    0
+                ]
+            ]
+        ]
+    }
+}
